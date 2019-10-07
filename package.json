@@ -1,0 +1,16 @@
+{
+  "name": "twilio-poc",
+  "version": "1.0.0",
+  "description": "project for testing twilio apis",
+  "main": "receive_text.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Monish Verma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "twilio": "^3.35.1"
+  }
+}
